@@ -1,2 +1,1 @@
-# SimpleRpc
-基于netty的rpc实现
+# SimpleRpc  基于netty的rpc实现
